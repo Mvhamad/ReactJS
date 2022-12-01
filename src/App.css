@@ -1,0 +1,27 @@
+.App {
+  /*text-align: center;*/
+  padding: 50px;
+  background-color: silver;
+  height: 100vh;
+}
+.form-contener{
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  
+}
+h2{
+  text-decoration: underline;
+  padding-bottom: 20px;
+  text-align: center;
+}
+p{
+  margin-left: 32.5%;
+  font-size: larger;
+}
+label{
+  font-size: larger;
+}
+.mb-3{
+  width: 70vh;
+}
